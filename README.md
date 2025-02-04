@@ -1,5 +1,5 @@
-[![license](https://img.shields.io/github/license/plus3it/windows-update-agent-formula.svg)](./LICENSE)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/plus3it/windows-update-agent-formula?branch=master&svg=true)](https://ci.appveyor.com/project/plus3it/windows-update-agent-formula)
+[![license](https://img.shields.io/github/license/MetroStar/windows-update-agent-formula.svg)](./LICENSE)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/MetroStar/windows-update-agent-formula?branch=master&svg=true)](https://ci.appveyor.com/project/MetroStar/windows-update-agent-formula)
 
 # windows-update-agent-formula
 Salt formula to manage the configuration of the Windows Update Agent
